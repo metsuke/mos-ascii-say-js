@@ -1,5 +1,5 @@
 {
-  "name": "metsuOS-ascii-say-js",
+  "name": "metsuos-ascii-say-js",
   "version": "0.0.1",
   "description": "ASCII say simplificado para MetsuOS",
   "main": "index.js",
