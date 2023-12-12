@@ -1,0 +1,15 @@
+{
+  "name": "mos-ascii-say",
+  "version": "0.0.2",
+  "description": "ascii say style simplified lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ascii",
+    "js"
+  ],
+  "author": "Raul Carrillo Garrido aka metsuke <rcarrillo@metsuke.com>",
+  "license": "MIT",
+}
